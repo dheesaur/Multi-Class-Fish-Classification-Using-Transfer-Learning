@@ -3,11 +3,11 @@
 
 ### Dependencies:
 * Python ![Python Version](https://img.shields.io/badge/Python-2.7%2B-ff69b4.svg)
-  ** Keras
-  ** Tensorflow
-  ** Pandas 
-  ** Matplotlib
-  ** Scikit-Learn
+  * Keras
+  * Tensorflow
+  * Pandas 
+  * Matplotlib
+  * Scikit-Learn
 
 ### Installation:
 Recommend installing Anaconda from [here](https://anaconda.org/) as it comes pre-installed with all above Python Packages
